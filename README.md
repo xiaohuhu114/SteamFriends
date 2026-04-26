@@ -16,7 +16,7 @@
 ## Steam好友列表
 | Avatar                                                                            | Name            | steamid                                                                     | is_friend   | BFD                 | removed_time   | Remark   |
 |:----------------------------------------------------------------------------------|:----------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------------|:---------|
-| ![](https://avatars.steamstatic.com/19829c39f0bd2df22778603ddc8121b43d2ca149.jpg) | 滔天血海可曾看见        | [76561199816497589](https://steamcommunity.com/profiles/76561199816497589/) | ✅           | 2026-03-13 19:39:09 |                |          |
+| ![](https://avatars.steamstatic.com/19829c39f0bd2df22778603ddc8121b43d2ca149.jpg) | 我不配站在你眼前        | [76561199816497589](https://steamcommunity.com/profiles/76561199816497589/) | ✅           | 2026-03-13 19:39:09 |                |          |
 | ![](https://avatars.steamstatic.com/c51ab6144318d7b70dff82bb04a7f31d0558a58a.jpg) | bacon_1110      | [76561199468313943](https://steamcommunity.com/profiles/76561199468313943/) | ✅           | 2025-01-12 02:33:08 |                |          |
 | ![](https://avatars.steamstatic.com/35d3f42c8cad765625a12b12f1db42425974995d.jpg) | 浓精肉壮大白奶子体育生叔控直男 | [76561199819788195](https://steamcommunity.com/profiles/76561199819788195/) | ✅           | 2025-09-18 13:48:17 |                |          |
 | ![](https://avatars.steamstatic.com/205744e5f4a1ddcca2e37732b2b8255f06fc7af3.jpg) | 3R              | [76561199482102259](https://steamcommunity.com/profiles/76561199482102259/) | ✅           | 2025-08-09 16:26:51 |                |          |
