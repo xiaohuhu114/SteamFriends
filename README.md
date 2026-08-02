@@ -27,3 +27,4 @@
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 错空          | [76561199727098520](https://steamcommunity.com/profiles/76561199727098520/) | ✅           | 2026-06-26 11:35:05 |                |          |
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 0127        | [76561199797114230](https://steamcommunity.com/profiles/76561199797114230/) | ✅           | 2026-06-26 11:46:42 |                |          |
 | ![](https://avatars.steamstatic.com/de46dda73212c17b9e6ccd3186d8c4df752bf971.jpg) | 聋鹿ee        | [76561199360682517](https://steamcommunity.com/profiles/76561199360682517/) | ✅           | 2026-07-21 22:10:53 |                |          |
+| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 452988688   | [76561198662756270](https://steamcommunity.com/profiles/76561198662756270/) | ✅           | 2026-08-01 22:01:51 |                |          |
