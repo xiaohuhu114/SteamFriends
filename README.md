@@ -29,3 +29,4 @@
 | ![](https://avatars.steamstatic.com/de46dda73212c17b9e6ccd3186d8c4df752bf971.jpg) | 聋鹿ee        | [76561199360682517](https://steamcommunity.com/profiles/76561199360682517/) | ✅           | 2026-07-21 22:10:53 |                |          |
 | ![](https://avatars.steamstatic.com/db538e41a5104f6d007c39018ffaf55e968dde45.jpg) | 喵喵不是猫       | [76561198662756270](https://steamcommunity.com/profiles/76561198662756270/) | ✅           | 2026-08-01 22:01:51 |                |          |
 | ![](https://avatars.steamstatic.com/4e1ce4e0d9a485486f0a23b77ea513a4664293ed.jpg) | 轻弦Y丫        | [76561198941560454](https://steamcommunity.com/profiles/76561198941560454/) | ✅           | 2026-09-29 19:09:07 |                |          |
+| ![](https://avatars.steamstatic.com/10833a89d8235401ac5a746ea347ca13e382e449.jpg) | 失智刀客塔       | [76561198850290530](https://steamcommunity.com/profiles/76561198850290530/) | ✅           | 2026-10-28 23:57:49 |                |          |
